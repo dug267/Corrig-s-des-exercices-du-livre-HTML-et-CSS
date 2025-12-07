@@ -5,6 +5,9 @@ Ici, tu trouveras les corrigés des exercices du livre.
 Tu peux **cliquer sur les fichiers** pour les lire ou les **télécharger** pour les tester dans ton IDE préféré.
 
 ---
+## Pour télécharger L'IDE :
+- Télécharge Visual Studio Code ici :
+- https://code.visualstudio.com
 
 ## Chapitre 1 — Maîtrise les notions de base du HTML
 - [Exercice 1 : Les balises de texte](chapitre1/exercice1.html)
